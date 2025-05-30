@@ -41,7 +41,7 @@ import { LoadingService } from './loading/loading.service';
         HomeComponent,
         AboutComponent,
         CourseComponent,
-        CourseDialogComponent,
+        // CourseDialogComponent,
         LoginComponent,
         LessonComponent,
         SafeUrlPipe,
